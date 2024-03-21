@@ -1,4 +1,4 @@
-package week1;
+package emrah_package.week1;
 
 public class finra {
     public static void main(String[] args) {
@@ -6,7 +6,6 @@ public class finra {
         //print "FIN" instead of the number and
         //for numbers which are a multiple of 5, print "RA" instead of the number.
         //for numbers which are a multiple of both 3 and 5, print "FINRA" instead of the number.
-        //first changes
 
 
     }
